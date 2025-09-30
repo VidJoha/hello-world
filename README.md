@@ -1,2 +1,2 @@
 # hello-world
-ubij me
+ja sam Vid
