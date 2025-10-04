@@ -1,4 +1,2 @@
 # hello-world
-ubij me
-brzo
-fhjrzj
+ja sam vid
